@@ -1,5 +1,6 @@
-****Welcome to jyrrahcc's GitHub Profile!****
-**About Me**
+# Welcome to jyrrahcc's GitHub Profile! (equivalent to <h1>)
+
+About Me
 Hello! 👋 I'm John Yrrah C. Cabiles, a third-year BSIT student at De La Salle University - Dasmariñas (DLSU-D), with a passion for software and web development. I love staying updated on the latest trends in technology and enjoy exploring new tools and frameworks.
 
 **Current Endeavors**
