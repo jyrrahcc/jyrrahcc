@@ -15,7 +15,7 @@
 - Databases: MySQL, MSSQL, MongoDB, Firebase
 - Other: AI Prompt Engineering, Generative AI
 
-**Get in Touch**
+## **Get in Touch**
 📧 Email: jyrrahcc@gmail.com
 
 Feel free to explore my repositories to see my works!
