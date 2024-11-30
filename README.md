@@ -6,7 +6,7 @@
 
 ## **Current Endeavors**
 - 🎓 Currently pursuing my Bachelor's degree in Information Technology at DLSU-D.
-- 💻 Participating in the Lasallian CodeSpace Bootcamp, honing my skills in software development. Check out my projects in my [LCS_Bootcamp](https://github.com/jyrrahcc/LCS_Bootcamp) repository.
+- 💻 Participated in the Lasallian CodeSpace Bootcamp, honing my skills in software development. Check out my projects in my [LCS_Bootcamp](https://github.com/jyrrahcc/LCS_Bootcamp) repository.
 - 🚀 Working on my capstone project, the DLSU-D Alumni Bazaar Corner, an e-commerce platform for DLSU-D alumni small businesses.
 
 # 💻 Tech Stack:
