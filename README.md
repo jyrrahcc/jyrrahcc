@@ -38,11 +38,6 @@
 ---
 
 ## GitHub analytics (best practice: 1 panel + 2 cards)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jyrrahcc/jyrrahcc/main/github-metrics.svg" />
-</p>
-
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=jyrrahcc&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="165" src="https://streak-stats.demolab.com/?user=jyrrahcc&hide_border=true" />
