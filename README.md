@@ -37,7 +37,7 @@
 
 ---
 
-## GitHub analytics (best practice: 1 panel + 2 cards)
+## GitHub analytics
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=jyrrahcc&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="165" src="https://streak-stats.demolab.com/?user=jyrrahcc&hide_border=true" />
