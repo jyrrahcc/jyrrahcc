@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://yrrah.tech">Portfolio</a> •
   <a href="mailto:jyrrahcc@gmail.com">Email</a> •
-  <a href="https://github.com/jyrrahcc?tab=repositories">Projects</a> •
+  <a href="https://github.com/jyrrahcc?tab=repositories">Projects</a>
 </p>
 
 ---
