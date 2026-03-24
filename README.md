@@ -1,7 +1,7 @@
 <h1 align="center">John Yrrah C. Cabiles</h1>
 
 <p align="center">
-  Full‑stack developer • React/Remix/NestJS/.NET • APIs • SQL/NoSQL • AWS/Azure • Docker/Redis
+  Full‑stack developer • React/Next.js/NestJS/.NET • APIs • SQL/NoSQL • AWS/Azure • Docker/Redis
 </p>
 
 <p align="center">
