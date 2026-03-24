@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://yrrah.tech">Portfolio</a> •
   <a href="mailto:jyrrahcc@gmail.com">Email</a> •
   <a href="https://github.com/jyrrahcc?tab=repositories">Projects</a>
 </p>
@@ -25,11 +24,10 @@
 
 ## Featured work
 - **Alumni Bazaar Corner (Capstone)** — PWA e‑commerce for alumni small businesses  
-  Details: https://yrrah.tech
 - **[LCS_Bootcamp](https://github.com/jyrrahcc/LCS_Bootcamp)** — bootcamp projects and full‑stack practice
 
 ## Core stack
-**Frontend**: React, Remix, Next.js, Tailwind, Bootstrap  
+**Frontend**: React, Next.js, Tailwind, Bootstrap  
 **Backend**: Node.js, Express, NestJS, ASP.NET Core (.NET/C#)  
 **Databases**: PostgreSQL, MySQL, MSSQL, MongoDB, DynamoDB  
 **Infra/DevOps**: Docker, Redis, AWS (EC2/Lambda/RDS), Azure  
@@ -50,5 +48,4 @@
 ---
 
 ## Contact
-- **Portfolio**: https://yrrah.tech
 - **Email**: jyrrahcc@gmail.com
